@@ -32,6 +32,9 @@ Plugin 'vim-airline/vim-airline-themes'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
 
+"" Plugin to make vim R-ide
+Plugin 'jalvesaq/Nvim-R'
+
 " All plugins must be added before the following line
 call vundle#end()
 
